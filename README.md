@@ -14,3 +14,6 @@ Non-Functional
 Design:
 - Deploy in a single VM no need to create separate container.
 
+
+Structured:
+- cmd,internal, pkg
